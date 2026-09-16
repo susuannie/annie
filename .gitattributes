@@ -1,0 +1,7 @@
+# Enforce text line endings for Markdown and code files
+* text=auto
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.png binary
